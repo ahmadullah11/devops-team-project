@@ -15,3 +15,5 @@ echo "Memory Usage:"
 free -h
 
 echo "==================================="
+
+echo "Feature branch is working successfully!"
